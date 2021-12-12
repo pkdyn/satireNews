@@ -1,4 +1,7 @@
-# satireNews
+# satireNews  
+Recurrent neural network based Sentiment Analyzer for Satire News.  
+• Utilized GloVe (Global Vectors for Word Representation) model’s Pre-learned embeddings  
+• Configured model parameters to improve accuracy from 70% to 80+%  
 
 Results:
 
